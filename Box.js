@@ -62,5 +62,4 @@ class Box {
     pop();
 
   }
-
 }
